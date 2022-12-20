@@ -1,0 +1,7 @@
+{
+    "name": "evgen/lw2",
+    "type": "project",
+    "require-dev": {
+        "phpstan/phpstan": "^1.9"
+    }
+}
